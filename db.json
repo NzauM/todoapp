@@ -1,0 +1,43 @@
+{
+  "todos": [
+    {
+      "task": "Debug my code",
+      "category": "School",
+      "due_date": "27/09/2022"
+    },
+    {
+      "task": "Do Laundry",
+      "category": "Chores",
+      "due_date": "30/09/2022"
+    },
+    {
+      "task": "Complete project",
+      "category": "School",
+      "due_date": "26/09/2022"
+    },
+    {
+      "id": 4,
+      "task": "Finish end of phase project",
+      "category": "Food",
+      "due_date": "28/9/2022"
+    },
+    {
+      "id": 5,
+      "task": "This is task5",
+      "category": "School",
+      "due_date": "28/9/2022"
+    },
+    {
+      "id": 1,
+      "task": "understand react",
+      "category": "Food",
+      "due_date": "28/9/2022"
+    },
+    {
+      "id": 7,
+      "task": "Finish end of phase project id 7",
+      "category": "School",
+      "due_date": "28/9/2022"
+    }
+  ]
+}
